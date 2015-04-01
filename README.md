@@ -2,7 +2,7 @@
 
 This is the source code which accompanies the blog post:
 
-> [coming soon](http://blog.thoughtstuff.co.uk/)
+> [UCWA Sample Project – Online Chat Example](http://blog.thoughtstuff.co.uk/2015/04/ucwa-sample-project-online-chat-example/)
 
 Description:
 
